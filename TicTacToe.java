@@ -33,6 +33,7 @@ public class TicTacToe {
         return (slot - 1) % 3;
 }
 }
+}
 import java.util.Scanner;
 
 /**
